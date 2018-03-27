@@ -1,2 +1,1 @@
-# mishakinlab.github.io
-123
+# lab5.2
